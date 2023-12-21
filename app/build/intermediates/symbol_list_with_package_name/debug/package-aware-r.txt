@@ -1,4 +1,4 @@
-mooc.vandy.java4android.gate
+mooc.vandy.java4android.gate.logic
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -45,6 +45,7 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array shapes
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -1525,6 +1526,7 @@ id largeLabel
 id left
 id line1
 id line3
+id linearLayout5
 id listMode
 id list_item
 id masked
@@ -1619,6 +1621,7 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id spinner
 id split_action_bar
 id spread
 id spread_inside

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "mooc.vandy.java4android.gate.app-mergeDebugResources-13:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "mooc.vandy.java4android.gate.logic.app-mergeDebugResources-13:/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Naim\\.gradle\\caches\\transforms-3\\4244095e4e7a4da1cee674b30ea5f0df\\transformed\\core-1.1.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",

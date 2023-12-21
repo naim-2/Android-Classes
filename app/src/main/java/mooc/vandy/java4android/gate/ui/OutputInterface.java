@@ -1,10 +1,17 @@
 package mooc.vandy.java4android.gate.ui;
 
+import mooc.vandy.java4android.gate.logic.ClassToTest;
+
 /**
- * Interface that defines the methods that the User Interface
+ * Interface defines the methods that the User Interface
  * [MainActivity] will implement.
  */
 public interface OutputInterface {
+    /**
+     * Return the enumeration literal for the class to test.
+     */
+    ClassToTest getClassToTest();
+
     /**
      * Reset the on-screen output (EditText box).
      */

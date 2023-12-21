@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "mooc.vandy.java4android.gate.app-mergeDebugResources-13:/values-night-v8/values-night-v8.xml",
+            "outputFile": "mooc.vandy.java4android.gate.logic.app-mergeDebugResources-13:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Naim\\.gradle\\caches\\transforms-3\\60e1841f07c472cf8d7fe786f90a01f4\\transformed\\material-1.1.0\\res\\values-night-v8\\values-night-v8.xml",

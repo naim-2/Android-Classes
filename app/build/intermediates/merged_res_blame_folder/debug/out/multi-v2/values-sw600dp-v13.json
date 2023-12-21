@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "mooc.vandy.java4android.gate.app-mergeDebugResources-13:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "mooc.vandy.java4android.gate.logic.app-mergeDebugResources-13:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Naim\\.gradle\\caches\\transforms-3\\60e1841f07c472cf8d7fe786f90a01f4\\transformed\\material-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

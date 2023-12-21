@@ -3,24 +3,28 @@ package mooc.vandy.java4android.gate.ui;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
-import mooc.vandy.java4android.gate.R;
+
+import mooc.vandy.java4android.gate.logic.ClassToTest;
 import mooc.vandy.java4android.gate.logic.Logic;
 import mooc.vandy.java4android.gate.logic.LogicInterface;
+import mooc.vandy.java4android.gate.logic.R;
 
 /**
- * Main UI for the App.
+ * Main UI of this app.
  */
 public class MainActivity
-       extends AppCompatActivity 
-       implements OutputInterface {
+        extends AppCompatActivity
+        implements OutputInterface {
     /**
-     * String for LOGGING.
+     * String for LOGGING
      */
-    private final static String LOG_TAG =
-        MainActivity.class.getCanonicalName();
+    public final static String LOG_TAG =
+            MainActivity.class.getCanonicalName();
 
     /**
      * Logic Instance.
@@ -33,9 +37,22 @@ public class MainActivity
     private TextView mOutput;
 
     /**
+     * The Spinner (drop down selector) that you choose which
+     * shape to use.
+     */
+    private Spinner mShapesSpinner;
+
+    /**
+     * This 'Adapts' the Array of CharSequence to make it useable by
+     * the mShapesSpinner.
+     */
+    private ArrayAdapter<CharSequence> mAdapter;
+
+    /**
      * Called when the activity is starting.
-     *
+     * <p>
      * Similar to 'main' in C/C++/Standalone Java
+     *
      * @param savedInstanceState
      */
     @Override
@@ -43,7 +60,7 @@ public class MainActivity
         // required
         super.onCreate(savedInstanceState);
 
-        // create a new 'Logic' instance.
+        // Create a new 'Logic' instance.
         mLogic = new Logic(this);
 
         // setup the UI.
@@ -51,14 +68,25 @@ public class MainActivity
     }
 
     /**
-     * This method sets up/gets reference to the UI components.
+     * This method sets up/gets reference to the UI components
      */
-    private void initializeUI(){
+    private void initializeUI() {
         // Set the layout.
         setContentView(R.layout.activity_main);
 
         // Initialize the views.
         mOutput = findViewById(R.id.outputET);
+        mShapesSpinner = findViewById(R.id.spinner);
+
+        // Initialize the adapter.
+        mAdapter = ArrayAdapter.createFromResource(this,
+                R.array.shapes,
+                android.R.layout.simple_spinner_item);
+        mAdapter.setDropDownViewResource
+                (android.R.layout.simple_spinner_dropdown_item);
+
+        // Connect the adapter to the Spinner.
+        mShapesSpinner.setAdapter(mAdapter);
     }
 
     /**
@@ -72,10 +100,20 @@ public class MainActivity
     }
 
     /**
-     * Add @a string to the EditText.
+     * Set the EditText's text.
      */
-    private void addToEditText(String string){
+    private void addToEditText(String string) {
         mOutput.setText("" + mOutput.getText() + string);
+    }
+
+    /**
+     * Return the enumeration literal for the class to test.
+     */
+    public ClassToTest getClassToTest() {
+        // valueOf(String) is an automatically generated method of all
+        // Enum(s).  It returns an instance of the enum if one matches
+        // the string provided.
+        return ClassToTest.valueOf(mShapesSpinner.getSelectedItem().toString());
     }
 
     /**

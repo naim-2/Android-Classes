@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="mooc.vandy.java4android.m6_gate_a"
+    package="mooc.vandy.java4android.m6_gate_b"
     android:versionCode="1"
     android:versionName="1.0" >
 
