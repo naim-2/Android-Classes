@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "mooc.vandy.java4android.gate.app-mergeDebugResources-13:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Naim\\.gradle\\caches\\transforms-3\\ab6b715b135bb62159428af5f2a87cd5\\transformed\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

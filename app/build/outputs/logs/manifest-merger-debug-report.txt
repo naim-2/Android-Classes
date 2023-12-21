@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\60e1841f07c472cf8d7fe786f90a01f4\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\ab6b715b135bb62159428af5f2a87cd5\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Naim\.gradle\caches\transforms-3\eabaa7f19c0f4ba95b70f63162a5fa93\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\57893f31dacb1d38f192645497078294\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\fd3f997ba497cce9e7cab6870c7c0e65\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\b90ce6e7f03b77c4b294a065deaa1d22\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\0d84f75f7886bc357e8da563038f101e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\7bdf1ce86e5b43a7f715d862f08ebaed\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Naim\.gradle\caches\transforms-3\5a91551019ab839677a92c2893772373\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\48a39b4119c3c3168b6760b61d701c46\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\1c99a7c2734cff95f7cb6f7c184eb476\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\f590b6760a36f02261bdcf4530b66fd5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\c8f70aa6551f28b86f1ce2658a23dfc9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\63d4495d32d7f3ee133b1e4eee1723ec\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\339098219cbe7e5d2d3cf421922cf1dd\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\ec356753140dad918adff040ada90b87\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4244095e4e7a4da1cee674b30ea5f0df\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\5b5ca08a0e254c3f15283463b8862822\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\e4c30d2381bbabe0831ed3fa016cb261\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4c646ea24ac094358eaf255885e41a61\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Naim\.gradle\caches\transforms-3\e156b85c0b5d2890dbba02b2b9e8d93a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Naim\.gradle\caches\transforms-3\110ed5123d9adc5f5726a3bd483fc7bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\58c3d89cedd937daf19c5ca668582c46\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\48204ede92d0f42de7b07fcac299a606\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Naim\.gradle\caches\transforms-3\82ef0ed8994be0fc44943d49027d61b2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Naim\.gradle\caches\transforms-3\7d44d412168117702efbee92fc4a1436\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Naim\.gradle\caches\transforms-3\cecd17068e5b579ce4860cdc8a2a283d\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\60e1841f07c472cf8d7fe786f90a01f4\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\60e1841f07c472cf8d7fe786f90a01f4\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Naim\.gradle\caches\transforms-3\eabaa7f19c0f4ba95b70f63162a5fa93\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Naim\.gradle\caches\transforms-3\eabaa7f19c0f4ba95b70f63162a5fa93\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4244095e4e7a4da1cee674b30ea5f0df\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4244095e4e7a4da1cee674b30ea5f0df\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4c646ea24ac094358eaf255885e41a61\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4c646ea24ac094358eaf255885e41a61\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4244095e4e7a4da1cee674b30ea5f0df\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:10:9-40
+activity#mooc.vandy.java4android.gate.ui.MainActivity
+ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:11:19-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\60e1841f07c472cf8d7fe786f90a01f4\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\60e1841f07c472cf8d7fe786f90a01f4\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\ab6b715b135bb62159428af5f2a87cd5\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\ab6b715b135bb62159428af5f2a87cd5\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Naim\.gradle\caches\transforms-3\eabaa7f19c0f4ba95b70f63162a5fa93\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Naim\.gradle\caches\transforms-3\eabaa7f19c0f4ba95b70f63162a5fa93\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\57893f31dacb1d38f192645497078294\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\57893f31dacb1d38f192645497078294\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\fd3f997ba497cce9e7cab6870c7c0e65\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\fd3f997ba497cce9e7cab6870c7c0e65\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\b90ce6e7f03b77c4b294a065deaa1d22\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\b90ce6e7f03b77c4b294a065deaa1d22\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\0d84f75f7886bc357e8da563038f101e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\0d84f75f7886bc357e8da563038f101e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\7bdf1ce86e5b43a7f715d862f08ebaed\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\7bdf1ce86e5b43a7f715d862f08ebaed\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Naim\.gradle\caches\transforms-3\5a91551019ab839677a92c2893772373\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Naim\.gradle\caches\transforms-3\5a91551019ab839677a92c2893772373\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\48a39b4119c3c3168b6760b61d701c46\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\48a39b4119c3c3168b6760b61d701c46\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\1c99a7c2734cff95f7cb6f7c184eb476\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\1c99a7c2734cff95f7cb6f7c184eb476\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\f590b6760a36f02261bdcf4530b66fd5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\f590b6760a36f02261bdcf4530b66fd5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\c8f70aa6551f28b86f1ce2658a23dfc9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\c8f70aa6551f28b86f1ce2658a23dfc9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\63d4495d32d7f3ee133b1e4eee1723ec\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\63d4495d32d7f3ee133b1e4eee1723ec\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\339098219cbe7e5d2d3cf421922cf1dd\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\339098219cbe7e5d2d3cf421922cf1dd\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\ec356753140dad918adff040ada90b87\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\ec356753140dad918adff040ada90b87\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4244095e4e7a4da1cee674b30ea5f0df\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4244095e4e7a4da1cee674b30ea5f0df\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\5b5ca08a0e254c3f15283463b8862822\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\5b5ca08a0e254c3f15283463b8862822\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\e4c30d2381bbabe0831ed3fa016cb261\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\e4c30d2381bbabe0831ed3fa016cb261\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4c646ea24ac094358eaf255885e41a61\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Naim\.gradle\caches\transforms-3\4c646ea24ac094358eaf255885e41a61\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Naim\.gradle\caches\transforms-3\e156b85c0b5d2890dbba02b2b9e8d93a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Naim\.gradle\caches\transforms-3\e156b85c0b5d2890dbba02b2b9e8d93a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Naim\.gradle\caches\transforms-3\110ed5123d9adc5f5726a3bd483fc7bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Naim\.gradle\caches\transforms-3\110ed5123d9adc5f5726a3bd483fc7bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\58c3d89cedd937daf19c5ca668582c46\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\58c3d89cedd937daf19c5ca668582c46\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\48204ede92d0f42de7b07fcac299a606\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Naim\.gradle\caches\transforms-3\48204ede92d0f42de7b07fcac299a606\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Naim\.gradle\caches\transforms-3\82ef0ed8994be0fc44943d49027d61b2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Naim\.gradle\caches\transforms-3\82ef0ed8994be0fc44943d49027d61b2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Naim\.gradle\caches\transforms-3\7d44d412168117702efbee92fc4a1436\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Naim\.gradle\caches\transforms-3\7d44d412168117702efbee92fc4a1436\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Naim\.gradle\caches\transforms-3\cecd17068e5b579ce4860cdc8a2a283d\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Naim\.gradle\caches\transforms-3\cecd17068e5b579ce4860cdc8a2a283d\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Naim\Downloads\pzCfsm-YTZOwn7JvmG2TCA_86de8132d0fc4ff19da5a17226a30f4b_m6-gate-a-assignment\m6-gate-a\app\src\main\AndroidManifest.xml

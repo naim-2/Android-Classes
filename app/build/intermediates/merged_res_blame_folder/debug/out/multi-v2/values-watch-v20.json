@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "mooc.vandy.java4android.gate.app-mergeDebugResources-13:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Naim\\.gradle\\caches\\transforms-3\\ab6b715b135bb62159428af5f2a87cd5\\transformed\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
